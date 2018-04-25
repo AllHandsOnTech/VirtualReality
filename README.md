@@ -1,27 +1,24 @@
 ## Virtual Reality: student work samples
 
-[3 Rocket Ships](https://cospac.es/edu/Jk4e)
+[Russian Rocket](https://cospac.es/edu/yrdC)
 
+[PacMan](https://cospac.es/edu/LUmz)
 
-### Markdown
+[Shark, Fish, and Turtles](https://cospac.es/edu/JJIQ)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Shark Attack](https://cospac.es/edu/KYGF)
 
-```markdown
-Syntax highlighted code block
+[Potpurri](https://cospac.es/edu/559L)
 
-# Header 1
-## Header 2
-### Header 3
+[3 Rockets](https://cospac.es/edu/Jk4e)
 
-- Bulleted
-- List
+[2 Rockets](https://cospac.es/edu/TkFY): click on the rockets to make them fly
 
-1. Numbered
-2. List
+[1 Rocket](https://cospac.es/edu/RCvi): click on the rocket to make it fly
 
-**Bold** and _Italic_ and `Code` text
+[Swan Attack](https://cospac.es/edu/6P5h): click on the swan to see the show
 
-[Link](url) and ![Image](src)
-```
+[Shark and Whale](https://cospac.es/edu/jmf5): click on the shark
+
+[Shark and Human](https://cospac.es/edu/e2Yy)
 
