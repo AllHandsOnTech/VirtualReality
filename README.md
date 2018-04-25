@@ -1,6 +1,8 @@
 ## Virtual Reality: student work samples
 
-#### Click on any of the links below. Select PLAY. Move around the virtual reality space using the arrow keys.
+### INSTRUCTIONS
+
+#### Click on any of the links below. Then click the PLAY button. Move around the virtual reality space using the arrow keys.
 
 [Russian Rocket](https://cospac.es/edu/yrdC): click on the rocket to make it fly
 
@@ -10,7 +12,7 @@
 
 [1 Rocket](https://cospac.es/edu/RCvi): click on the rocket to make it fly
 
-[PacMan](https://cospac.es/edu/LUmz)
+[Pac-Man](https://cospac.es/edu/LUmz): click on Pac-Man to see the animation
 
 [Shark, Fish, and Turtles](https://cospac.es/edu/JJIQ)
 
